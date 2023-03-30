@@ -1,0 +1,25 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.showFormBtn {
+  width: 200px;
+  height: 50px;
+  font-size: large;
+}
+
+.btnBox {
+  display: flex;
+}
+
+/* button {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  background-color: cornflowerblue;
+  color: white;
+  cursor: pointer;
+} */
